@@ -1,0 +1,168 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: radial-gradient(#c7c7c7 25%, #c7c7c7 74%);
+    height: 100vh;
+    font-family: system-ui;
+
+}
+
+.main {
+    height: 1150px;
+    width: 750px;
+    background-color: white;
+    box-shadow: 5px 7px 15px 5px #b9b6b6;
+    margin: 0 auto;
+
+}
+
+.top-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #151b29;
+    padding: 20px;
+
+}
+
+.pic {
+    padding-right: 60px;
+}
+
+.profile {
+    width: 150px;
+    border-radius: 30%;
+
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    justify-content: center;
+}
+
+.p1 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+.p1 span {
+    font-weight: 100;
+    color: #c7c7c7;
+}
+
+.p2 {
+    font-size: 20px;
+    color: #c7c7c7;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+
+.left_side {
+    width: 35%;
+    float: left;
+}
+
+.content_box {
+    padding: 20px;
+    padding-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #7b7b7b;
+}
+
+.head {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 750;
+    text-decoration: underline;
+}
+
+.p3 {
+    color: #7b7b7b;
+    margin-bottom: -5px;
+}
+
+.fa {
+    color: #151b29;
+}
+
+
+.sp1 {
+    width: 80%;
+    font-size: 15x;
+    background-color: #7b7b7b;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.lp {
+    font-size: 18px;
+}
+
+.lplow {
+    color: #7b7b7b;
+    margin-top: -10px;
+    font-size: 12px;
+}
+
+.inp {
+    font-size: 15px;
+    border: solid 1.5px #7b7b7b;
+    border-radius: 10px;
+    width: 70%;
+    padding: 10px;
+
+}
+
+.right_side.left_side {
+    width: 65%;
+    float: left;
+}
+
+.info_box {
+    padding: 40px;
+    /* padding-left: 40px; */
+}
+
+.ep_head {
+    font-size: 18px;
+
+    text-transform: uppercase;
+    font-weight: 650;
+}
+
+.ep_name {
+    font-size: 16px;
+    margin-top: -8px;
+    font-weight: 500;
+}
+
+.ep_foot {
+    font-size: 14px;
+    margin-top: -8px;
+}
+
+.ep_foot samp {
+    padding-left: 150px;
+}
+
+.ac_name {
+    font-size: 16px;
+
+    font-weight: 500;
+}
+
+.ac_foot {
+    font-size: 14px;
+    margin-top: -8px;
+}
